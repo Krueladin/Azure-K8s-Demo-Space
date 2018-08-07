@@ -1,0 +1,5 @@
+*/generated/*
+terraform-staging/*
+*.no-commit.*
+*.swp
+!.gitkeep
