@@ -1,5 +1,9 @@
-*/generated/*
-terraform-staging/*
+generated/
+terraform-staging/
 *.no-commit.*
 *.swp
+*.swo
+*.swn
 !.gitkeep
+!generated/.gitkeep
+!terraform-staging/.gitkeep
